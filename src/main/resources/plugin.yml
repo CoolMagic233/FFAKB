@@ -1,0 +1,8 @@
+name: "FFAKB"
+main: com.gt.plugin.Main
+version: 1.0.0
+api: [1.0.9]
+
+commands:
+  ffa:
+    description: "FFA KB SETTINGS"
